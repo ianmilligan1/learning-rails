@@ -1,13 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-ruby:
-  title: Programming Ruby 1.9
-  description: Here is a fun and lengthy description
-  image_url: 49.99
-  price: ruby.png
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
 
 two:
   title: MyString
   description: MyText
   image_url: MyString
   price: 9.99
+
+ruby:
+  title: Programming Ruby 1.9
+  description: Here is a fun and lengthy description
+  image_url: 49.99
+  price: ruby.png
